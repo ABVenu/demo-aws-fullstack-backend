@@ -96,5 +96,9 @@ app.get("/test", (req, res) => {
   res.send("Welcome to AWS ECR-ECS Backend!");
 });
 
+app.get("/test2", (req, res) => {
+  res.send("This test response 2");
+});
+
 const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
