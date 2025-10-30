@@ -1,0 +1,12 @@
+[
+  {
+    "email": "venu@gmail.com",
+    "password": "venu1234",
+    "profilePic": "https://pract-demo-profilepic.s3.eu-north-1.amazonaws.com/profilePics/1761712950073_Profile%20Pic%20Male01.jpeg"
+  },
+  {
+    "email": "bob@gmail.com",
+    "password": "bob123",
+    "profilePic": "https://pract-demo-profilepic.s3.eu-north-1.amazonaws.com/profilePics/1761713342947_Profile%20Pic%20Male.png"
+  }
+]
